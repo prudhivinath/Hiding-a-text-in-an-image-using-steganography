@@ -11,8 +11,6 @@ Hide secret text in an image
 
 Extract hidden text from an image
 
-User-friendly CLI or GUI (if any)
-
 Supports PNG/BMP formats (or mention your supported image types)
 
 Simple Python implementation
