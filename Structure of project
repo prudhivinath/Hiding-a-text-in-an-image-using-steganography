@@ -1,0 +1,8 @@
+steganography-text-in-image/
+├── encode.py          # Script to hide the message
+├── decode.py          # Script to retrieve the message
+├── requirements.txt
+├── README.md
+└── sample/
+    ├── input.png
+    ├── output_with_hidden_text.png
