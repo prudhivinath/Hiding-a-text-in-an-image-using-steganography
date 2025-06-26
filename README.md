@@ -5,7 +5,8 @@ Short description of the project:
 
 "This project demonstrates how to hide and retrieve secret text messages inside an image using basic steganography techniques with Python. It ensures that the hidden message is not visible to the human eye."
 
- Features
+ Features:
+ 
 Hide secret text in an image
 
 Extract hidden text from an image
@@ -16,7 +17,8 @@ Supports PNG/BMP formats (or mention your supported image types)
 
 Simple Python implementation
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python 3.x
 
 OpenCV / PIL
